@@ -1,5 +1,5 @@
 {
-  "name": "okobsamoht/cs",
+  "name": "@okobsamoht/cs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "okobsamoht:registry": "https://npm.pkg.github.com"
+    "@okobsamoht:registry": "https://npm.pkg.github.com"
   }
 }
