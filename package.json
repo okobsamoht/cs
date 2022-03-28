@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "@okobsamoht:registry": "https://npm.pkg.github.com"
+    "okobsamoht:registry": "https://npm.pkg.github.com"
   }
 }
